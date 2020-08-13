@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning NextJs
 
 
-
-<img align="left" alt="JoranDob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joran-Dob&show_icons=true&hide_border=true" />
